@@ -1,0 +1,1 @@
+Aca se pondra el caso de análisis para la introducción a las redes Neuronales.
